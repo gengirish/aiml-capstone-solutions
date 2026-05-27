@@ -1,0 +1,12 @@
+# Large dataset archives (>100 MB GitHub limit)
+Capstone 1/Part 1/Images.zip
+Capstone 2/Part 1/dataset_hist_structures 2.zip
+
+# Notebook working dirs created at runtime
+_vehicles/
+_heritage/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
