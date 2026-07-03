@@ -1,0 +1,1 @@
+Capstone 2: Part 1 (MobileNetV2 heritage classification) + Part 2 (tourism EDA + item-based collaborative filtering). Part 2 executed locally with full outputs. Part 1 needs Google Colab GPU (TensorFlow). Upload both .ipynb files. Screenshots include Part 2 charts; add Part 1 training curves after Colab run.

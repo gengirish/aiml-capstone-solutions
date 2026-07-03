@@ -1,0 +1,1 @@
+Capstone 1: Part 1 (Faster R-CNN object detection) + Part 2 (Tesla deaths EDA). Part 2 executed locally. Part 1 needs Google Colab (T4 GPU) for training screenshots. Upload both .ipynb files as source code. Dataset paths are relative to solutions/.

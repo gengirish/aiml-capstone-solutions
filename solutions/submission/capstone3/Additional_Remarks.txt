@@ -1,0 +1,1 @@
+Capstone 3: merged restaurant sales EDA, Linear Regression vs Random Forest vs XGBoost comparison (XGBoost best test RMSE 2.88), and one-year forward forecast. Fully executed locally. Upload Capstone3_Sales_Forecasting.ipynb as source code.
